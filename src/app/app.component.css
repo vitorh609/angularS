@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: aliceblue;
+}
+.container-fluide {
+    margin: 10px;
+}

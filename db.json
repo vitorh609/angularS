@@ -1,0 +1,8 @@
+{
+    "courses":[
+        { "nome": "Angular", "duracao": "24hr"},
+        { "nome": "Java", "duracao": "80hr"},
+        { "nome": "Postgress", "duracao": "34hr"},
+        { "nome": "Python", "duracao": "10hr"}
+    ]
+}
